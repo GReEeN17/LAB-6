@@ -17,8 +17,7 @@ class TestSimpleCalculator(unittest.TestCase):
     def test_devide(self):
         self.assertEqual(self.simple_calculator.divide(90, 10), 9)
 
-if __name__ == "__main__":
-    unittest.main()
+unittest.main()
 
 
 
