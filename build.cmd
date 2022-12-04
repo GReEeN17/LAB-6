@@ -1,1 +1,1 @@
-pyinstaller --distpath /Users/azelen/Desktop/Уник/Инструменты --onefile main.py
+pyinstaller --distpath /Users/azelen/Desktop/dist --onefile main.py
